@@ -1,0 +1,11 @@
+{
+    "name": "CAESAR",
+    "description": "A future with ethereum, by all and for all",
+    "external_url": "https://twitter.com/LaDunnie99",
+    "image": "https://ipfs.filebase.io/ipfs/QmezRgpQDMY9xKrLRWv85Q4CGJAJuwNHryKorZ7RXeNp8H",
+    "attributes": [
+      { "trait_type": "Caesar", "value": "Reliance" },
+      { "trait_type": "image type", "value": "paint" },
+      { "trait_type": "Crypto", "value": "Ether" }
+    ]
+  }
